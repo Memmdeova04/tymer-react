@@ -1,0 +1,39 @@
+.timer {
+    margin: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .timer .controls {
+    margin: 10px 0;
+  }
+  
+  .timer .controls button {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    background-color: #28a745;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .timer .controls button:hover {
+    background-color: #218838;
+  }
+  
+  .timer button {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    background-color: #ffc107;
+    color: #333;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .timer button:hover {
+    background-color: #e0a800;
+  }
+  
