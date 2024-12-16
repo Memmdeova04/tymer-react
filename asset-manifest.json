@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tymer-react/static/css/main.99b2a710.css",
+    "main.js": "/tymer-react/static/js/main.eae3d6eb.js",
+    "index.html": "/tymer-react/index.html",
+    "main.99b2a710.css.map": "/tymer-react/static/css/main.99b2a710.css.map",
+    "main.eae3d6eb.js.map": "/tymer-react/static/js/main.eae3d6eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b2a710.css",
+    "static/js/main.eae3d6eb.js"
+  ]
+}
